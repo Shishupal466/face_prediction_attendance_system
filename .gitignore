@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# Media / uploads
+media/
+uploads/
+*.jpg
+*.jpeg
+*.png
+
+# ML models
+*.pkl
+*.h5
+*.npz
+
+# Attendance
+attendance.csv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
